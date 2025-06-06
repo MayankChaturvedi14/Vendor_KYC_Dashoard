@@ -87,3 +87,10 @@ If you're in **compliance, BI, finance ops, or procurement tools**, let’s conn
 
 ## 🔖 Hashtags (for visibility & inspiration)
 #powerbi #python #datavisualization #dashboarddesign #businessintelligence #pythonvisuals #dataengineering #seaborn #fakerlibrary #analyticsdashboard #kyc #riskanalytics #regtech #frauddetection #complianceanalytics #audittech #vendorcompliance #aml #riskmanagement #governancedata #dataanalytics #dataforgood #datasolutions #dataquality #dataprojects #machinelearning #aiinfinance #appliedai #advancedanalytics #bigdataanalytics #analyticsjobs #openforwork #portfolio #buildinpublic #careerinanalytics #jobsearch #freelancer #resumebooster #projectbasedlearning #careertransition #fintech #ecommerceanalytics #procurementanalytics #financialanalytics #supplychainanalytics #bfsisector #vendorrisk #internalaudit #financeops #datainnovation #analyst #flipkart #oyo #ola #boeing #marketing #marketinganalytics #digitalmarketinginsights #conversionoptimization #productanalytics #userjourney #lookerstudio #ga4 #googleanalytics #sql #postgresql #tableau #gurugram #genai #ai #budget #analysis #campaignperformance #productmanagement #programmanagement #funnelanalysis #marketingdashboard #datadriven #reporting #marketingstrategy #dashboard
+
+
+
+![vendor_kyc_dashboard_page-0001](https://github.com/user-attachments/assets/0ff81218-94c5-4327-b979-50e90c569fc6)
+![vendor_kyc_dashboard_page-0002](https://github.com/user-attachments/assets/83c0e725-e183-41ce-a898-44fdf0fa531f)
+
+
